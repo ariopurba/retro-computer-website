@@ -3,7 +3,7 @@
 
 ##   Hi there, 
 
-#  *I'm Ed H*
+#  *I'm Ario Tua Purba*
 
 ##   • Software Engineer
 ##   • Digital Designer
@@ -12,5 +12,5 @@
 
 
 
-### Welcome to ED-Linux 1.0 LTS
+### Welcome to ARIO-Linux 1.0 LTS
 ### →→ Scroll or type "help" to get started

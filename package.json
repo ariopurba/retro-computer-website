@@ -1,11 +1,11 @@
 {
   "author": {
-    "name": "Ed Hinrichsen",
-    "url": "https://www.edwardh.io"
+    "name": "Ario Tua Purba",
+    "url": "https://ariotuapurba.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edhinrichsen/retro-computer-website.git"
+    "url": "git+https://github.com/ariotuapurba/retro-computer-website.git"
   },
   "license": "MIT",
   "name": "retro-computer-website",
